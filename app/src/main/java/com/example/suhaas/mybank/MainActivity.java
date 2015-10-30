@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mCurrentAccount = new BankAccount();
+        mCurrentAccount = new SavingsAccount();
 
         mAmountDisplay = (TextView) findViewById(R.id.balance_display);
         mWithdrawButton = (Button) findViewById(R.id.withdraw_button);
