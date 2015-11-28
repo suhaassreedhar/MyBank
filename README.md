@@ -2,7 +2,7 @@
 Simple app which maintains the bank account
 
 You can perform the following transactions
->Balance inquiry on savings
->Deposit your amount
->Fixed withdrawals
+1)Balance inquiry on savings
+2)Deposit your amount
+3)Fixed withdrawals
 
