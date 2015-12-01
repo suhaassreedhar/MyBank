@@ -1,5 +1,5 @@
 # MyBank
-Simple app which maintains the bank account
+Simple app that maintains the bank account
 
 You can perform the following transactions
 
